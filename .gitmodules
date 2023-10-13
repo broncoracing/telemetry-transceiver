@@ -1,3 +1,0 @@
-[submodule "pcb/kicad-libraries"]
-	path = pcb/kicad-libraries
-	url = git@github.com:broncoracing/kicad-libraries.git
