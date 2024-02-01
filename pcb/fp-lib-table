@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "XBEE")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/XBEE.pretty")(options "")(descr ""))
   (lib (name "LF33CDT")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/LF33CDT/LF33CDT.pretty")(options "")(descr ""))
+  (lib (name "toucan")(type "KiCad")(uri "${KIPRJMOD}/toucan.pretty")(options "")(descr ""))
 )

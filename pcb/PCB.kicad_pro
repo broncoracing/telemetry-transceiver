@@ -56,7 +56,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|191747001|62462001|8d7c1895-7465-4bc3-8e42-ed98b7dcfed4|cbd28165-5f1c-4258-b8e3-eceea0549664"
+      ],
       "meta": {
         "version": 2
       },
@@ -623,7 +625,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
